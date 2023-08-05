@@ -32,7 +32,7 @@ export default function Home() {
                         <h2 className='text-white text-3xl font-black mb-3'>칸다소바 부평점</h2>
                         <div className='mb-2 flex items-center'>
                             <Image src={'/map-pin-solid.png'} alt='place' width={12} height={12} />
-                            <span className='text-2xl'>현재 위치에서 23m 거리에 있습니다.</span>
+                            <span className='text-2xl'>현재 위치에서 23m 거리에 있습니다. </span>
                         </div>
                         <div className='mb-2 flex items-center'>
                             <Image src={'/house-solid.png'} alt='house' width={9} height={9} />
